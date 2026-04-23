@@ -1,0 +1,14 @@
+# Assets Directory
+
+This directory is for visual assets used in GitHub presentation.
+
+## preview.png
+
+Add a social preview image here (1280x640px recommended) for GitHub repository settings.
+
+Suggested content:
+- Skill name: "Local Fun Discovery"
+- Tagline: "Curated local recommendations through conversation"
+- Simple, clean design with a map pin or location icon
+
+To use: Go to repository Settings → General → Social preview → Upload preview.png
